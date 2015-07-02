@@ -1,12 +1,7 @@
-# UnitySkeleton
-Raw skeleton for my Unity3D projects.
+# Unity 2D Tilemap Plugin.
 
-Including:
-* Structure for Assets/
-* proper Git set-up
-	* Editor Settings
-	* .gitignore
-	* .gitattributes
+Development state: Currently not in useable state.
+Everything is terms of change.
 
 # License
-Feel free to use or fork.
+MIT/X11

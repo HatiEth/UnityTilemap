@@ -4,6 +4,14 @@
 # List them here  #
 # =============== #
 
+# ======== #
+# UnityVS  #
+# ======== #
+UnityVS/
+UnityVS.meta
+
+
+
 # ========= #
 # Git	    #
 # ========= #
@@ -13,6 +21,7 @@
 # Unity generated #
 # =============== #
 Temp/
+# Not required due to Visible Meta & Force Text
 Library/
 
 # ===================================== #
